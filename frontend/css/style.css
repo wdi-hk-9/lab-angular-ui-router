@@ -135,3 +135,12 @@ form#newCriminal input[type=submit]:focus {
   box-shadow: none;
   outline: none;
 }
+
+p {
+  max-width: 460px;
+}
+
+a {
+  color: black;
+  font-weight: bold;
+}
